@@ -1,3 +1,6 @@
+
+# pip install -r requirements.txt
+
 from kivymd.app import MDApp
 from kivy.lang import Builder
 
